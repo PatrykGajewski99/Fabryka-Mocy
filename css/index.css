@@ -1,0 +1,18 @@
+h3{
+text-align:center;
+}
+
+.photo{
+    width: 100%;
+}
+.row{
+    width: 110%;
+}
+
+.zgloszenie{
+    background-image: url("https://i.dobrzemieszkaj.pl/i/27/19/82/r3/1920/przestronne-jasne-mieszkanie-wnetrze-dla-rodziny.jpg");
+    background-size:auto;
+    margin-bottom:0px;
+}
+
+.zgloszenie 
